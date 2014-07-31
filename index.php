@@ -20,7 +20,7 @@ echo "cur_page: ".$cur_page;
     </body>
 </html>
 <?php
-echo 1;
+echo 1111111111111111;
 echo '<script>';
 echo '$("#Studies").load("Studies.php?page='.$cur_page.'")';
 echo '</script>';
